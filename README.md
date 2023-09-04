@@ -9,7 +9,7 @@ This is just a trial.
      <td><b>2) Page2</b></td>
   </tr>
   <tr>
-    <td><img src="phppage1.png" width=225 height=500></td>
-    <td><img src="phppage2.png" width=225 height=500></td>
+    <td><img src="phppage1.png" width=500 height=250></td>
+    <td><img src="phppage2.png" width=500 height=250></td>
   </tr>
  </table>
